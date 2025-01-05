@@ -1,3 +1,2 @@
 # CONTRIBUTING 🐧
-
-プロジェクトのコントリビュートガイド
+This is the contribute guide for projects.
