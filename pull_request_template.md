@@ -1,6 +1,6 @@
 ---
-name: New Pull Request 1
-about: Create a report to help us improve
+name: 'New Pull Request 1'
+about: 'Create a report to help us improve'
 title: ''
 labels: 'enhancement'
 assignees: 'landmaster135'
