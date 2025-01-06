@@ -1,5 +1,7 @@
 ---
 name: 'New Pull Request 1'
+about: 'Create a pull request to help us improve'
+title: ''
 quick_pull: 1
 labels: 'enhancement'
 assignees: 'landmaster135'
