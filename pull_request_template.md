@@ -1,7 +1,6 @@
 ---
 name: 'New Pull Request 1'
-about: 'Create a report to help us improve'
-title: ''
+quick_pull: 1
 labels: 'enhancement'
 assignees: 'landmaster135'
 
